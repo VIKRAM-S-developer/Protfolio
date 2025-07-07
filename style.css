@@ -4,9 +4,16 @@
 :root{
     --big-black-900:#f2f2fc;
     --big-black-100:#fdf9ff;
-    --big-black-50:#f8eefd;
-    --text-black-900:#232138;
+    --big-black-50:#e8dfec;
     --text-black-900:#302e4d;
+    --text-black-700:#504e70;
+}
+body.dark{
+    --big-black-900:#151515;
+    --big-black-100:#222222;
+    --big-black-50:#393939;
+    --text-black-900:#ffffffff;
+    --text-black-700:#e9e9e9;
 }
 body{
     margin: 0;
